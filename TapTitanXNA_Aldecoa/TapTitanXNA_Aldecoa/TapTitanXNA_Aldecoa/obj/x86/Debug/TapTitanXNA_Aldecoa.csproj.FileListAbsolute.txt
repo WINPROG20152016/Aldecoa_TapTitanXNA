@@ -1,0 +1,14 @@
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\TapTitanXNA_Aldecoa.exe
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\TapTitanXNA_Aldecoa.pdb
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\obj\x86\Debug\TapTitanXNA_Aldecoa.exe
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\obj\x86\Debug\TapTitanXNA_Aldecoa.pdb
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\Background\universe.xnb
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\Ralph.xnb
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\RalphAttack.xnb
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\Button\buton.xnb
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\Button\pay_now_button.xnb
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\hero.xnb
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\obj\x86\Debug\TapTitanXNA_Aldecoa.csprojResolveAssemblyReference.cache
