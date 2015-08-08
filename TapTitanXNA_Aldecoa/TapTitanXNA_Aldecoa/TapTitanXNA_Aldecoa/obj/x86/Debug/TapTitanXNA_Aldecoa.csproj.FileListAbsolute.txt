@@ -12,3 +12,5 @@ C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapT
 C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\hero.xnb
 C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\SpriteFont2.xnb
 C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\obj\x86\Debug\TapTitanXNA_Aldecoa.csprojResolveAssemblyReference.cache
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\Jotaro.xnb
+C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\SpriteFont3.xnb

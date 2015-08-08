@@ -73,6 +73,24 @@
       <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
       <Time>2015-07-25T08:10:38.2638104+08:00</Time>
     </Item>
+    <Item>
+      <Source>HeroSprite\Jotaro.png</Source>
+      <Name>HeroSprite\Jotaro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\Jotaro.xnb</Output>
+      <Time>2015-08-08T09:13:02.8765603+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Time>2015-08-08T09:35:18.385947+08:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
