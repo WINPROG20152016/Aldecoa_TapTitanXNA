@@ -33,7 +33,7 @@ namespace TapTitanXNA_Aldecoa
             jotaro = content.Load<Texture2D>("HeroSprite/Jotaro");
 
 
-            int positionX = 200;
+            int positionX = (Level.windowWidth / 2) - (jotaro.Width);
             int positionY = (Level.windowHeight / 2) - (jotaro.Height / 3);
             JojoPosition = new Vector2((float)positionX, (float)positionY);
 

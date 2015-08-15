@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\Background\universe.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\Background\universe.xnb</Output>
       <Time>2015-06-20T09:34:57.6030684+08:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\Ralph.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\Ralph.xnb</Output>
       <Time>2015-07-04T10:14:39.4021225+08:00</Time>
     </Item>
     <Item>
@@ -25,17 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\RalphAttack.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\RalphAttack.xnb</Output>
       <Time>2015-07-18T10:21:04.9262618+08:00</Time>
-    </Item>
-    <Item>
-      <Source>SpriteFont1.spritefont</Source>
-      <Name>SpriteFont1</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
-      <Time>2015-07-18T08:33:03.0645288+08:00</Time>
     </Item>
     <Item>
       <Source>Button\buton.png</Source>
@@ -43,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\Button\buton.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\Button\buton.xnb</Output>
       <Time>2015-07-18T09:25:08.347288+08:00</Time>
     </Item>
     <Item>
@@ -52,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\Button\pay_now_button.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\Button\pay_now_button.xnb</Output>
       <Time>2015-07-18T09:37:58.0275633+08:00</Time>
     </Item>
     <Item>
@@ -61,17 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\hero.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\hero.xnb</Output>
       <Time>2015-07-25T08:01:35.4944036+08:00</Time>
-    </Item>
-    <Item>
-      <Source>SpriteFont2.spritefont</Source>
-      <Name>SpriteFont2</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
-      <Time>2015-07-25T08:10:38.2638104+08:00</Time>
     </Item>
     <Item>
       <Source>HeroSprite\Jotaro.png</Source>
@@ -79,8 +61,26 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\Jotaro.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\HeroSprite\Jotaro.xnb</Output>
       <Time>2015-08-08T09:13:02.8765603+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-07-18T08:33:03.0645288+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2015-07-25T08:10:38.2638104+08:00</Time>
     </Item>
     <Item>
       <Source>SpriteFont3.spritefont</Source>
@@ -88,7 +88,7 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Output>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
       <Time>2015-08-08T09:35:18.385947+08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -97,10 +97,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_AldecoaContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_AldecoaContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_AldecoaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_AldecoaContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

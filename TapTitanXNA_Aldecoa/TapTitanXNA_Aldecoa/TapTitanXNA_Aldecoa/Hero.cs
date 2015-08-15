@@ -35,7 +35,7 @@ namespace TapTitanXNA_Aldecoa
 
             idleAnimation = new Animation(player, 0.1f, true);
 
-            int positionX = (Level.windowWidth/2) - (player.Width / 2);
+            int positionX = (Level.windowWidth/2) - (player.Width /8); 
             int positionY = (Level.windowHeight / 2) - (player.Height / 3);
             playerPosition = new Vector2((float)positionX, (float)positionY);
             spritePlayer.PlayAnimation(idleAnimation);

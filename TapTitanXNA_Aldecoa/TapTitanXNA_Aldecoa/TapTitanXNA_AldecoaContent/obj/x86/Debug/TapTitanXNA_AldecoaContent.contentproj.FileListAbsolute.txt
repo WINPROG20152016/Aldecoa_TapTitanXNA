@@ -1,1 +1,2 @@
 C:\Users\istudent\Documents\Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_AldecoaContent\obj\x86\Debug\TapTitanXNA_AldecoaContent.contentprojResolveAssemblyReference.cache
+C:\Users\istudent\Documents\Aldecoa\Aldecoa_TapTitanXNA\TapTitanXNA_Aldecoa\TapTitanXNA_Aldecoa\TapTitanXNA_AldecoaContent\obj\x86\Debug\TapTitanXNA_AldecoaContent.contentprojResolveAssemblyReference.cache

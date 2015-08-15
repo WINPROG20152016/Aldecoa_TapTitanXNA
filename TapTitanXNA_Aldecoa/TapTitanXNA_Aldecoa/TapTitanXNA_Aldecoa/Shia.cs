@@ -34,7 +34,7 @@ namespace TapTitanXNA_Aldecoa
             shia = content.Load<Texture2D>("HeroSprite/hero");
 
           
-            int positionX = (Level.windowWidth / 2) - (shia.Width);
+            int positionX = (Level.windowWidth / 2) - (shia.Width /2);
             int positionY = (Level.windowHeight / 2) - (shia.Height / 3);
             ShiaPosition = new Vector2((float)positionX, (float)positionY);
           

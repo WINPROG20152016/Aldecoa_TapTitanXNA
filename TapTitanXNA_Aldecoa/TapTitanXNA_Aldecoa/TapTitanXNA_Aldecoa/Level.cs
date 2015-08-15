@@ -27,7 +27,7 @@ namespace TapTitanXNA_Aldecoa
        SpriteFont GameOver;
        String Over="";
        float time = 0.0f;
-       float dmg = 0;
+       float dmg = 0f;
        float shiaOuch = 500f;
        Shia shia;
 
@@ -72,31 +72,35 @@ namespace TapTitanXNA_Aldecoa
           mouseY = mouseState.Y;
           prev_mpressed = mpressed;
           mpressed = mouseState.LeftButton == ButtonState.Pressed;
-          time = gameTime.ElapsedGameTime.Milliseconds / 1000;
-         
+          time = gameTime.TotalGameTime.Seconds;
+
+
           hero.Update(gameTime);
-         
           
 
          oldMouseState = mouseState;
 
-         if (time % 20 == 0)
+         if (time % 2 == 0)
          {
-             dmg = 5;
-             shiaOuch -= 0.15f;
+             dmg += 0.5f;
+             shiaOuch -= 0.5f;
+             
          }
 
          if (attackButton.Update(gameTime, mouseX, mouseY, mpressed, prev_mpressed))
          {
             shiaOuch -= 5;
-            dmg = 6;
+            dmg += 0.5f;
             shia.Update(gameTime);
+            
             jojo.Update(gameTime);
          }
          if (shiaOuch <= 0)
          {
              Over = "Game Over";
              shiaOuch = 0;
+             dmg = 0;
+
          }
          if (shiaOuch ==0 && mpressed)
          {
@@ -116,7 +120,7 @@ namespace TapTitanXNA_Aldecoa
          hero.Draw(gameTime, spriteBatch);
          spriteBatch.DrawString(shiaHealth,shiaOuch+ " :Shia Health", Vector2.Zero, Color.Blue);
          spriteBatch.DrawString(GameOver,Over, new Vector2(400,150), Color.Red);
-         spriteBatch.DrawString(Damage,"Damage:" + dmg +" per second",new Vector2(0,200), Color.Aquamarine);
+         spriteBatch.DrawString(Damage,"Damage:" + dmg +" total",new Vector2(0,200), Color.Aquamarine);
          attackButton.Draw(gameTime, spriteBatch);
      }
    }
